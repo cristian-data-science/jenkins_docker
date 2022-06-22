@@ -2,6 +2,7 @@
 Deploy de jenkins con docker de imagen custom con docker dentro
 
 docker-compose build
+
 docker-compose up -d
 
 
