@@ -1,6 +1,9 @@
 # jenkins_docker
 Deploy de jenkins con docker de imagen custom con docker dentro
 
+docker-compose build
+docker-compose up -d
+
 
 importante despues de la build de la imagen y levantamiento del contenedor hacer lo siguiente:
 
