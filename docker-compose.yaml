@@ -5,7 +5,7 @@ services:
         build:
             context: dockerjenkins
         ports:
-            - 8080:8080
+            - 7000:8080
             - 50000:50000
         container_name: jenkins 
         volumes:

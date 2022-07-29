@@ -36,6 +36,11 @@ chmod +x /root/downloads/chromedriver && \
 mv ~/downloads/chromedriver /usr/local/share/chromedriver && \
 ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 
+RUN pip install xlrd
+RUN pip install openpyxl
+RUN pip install xlsxwriter
+RUN pip install pandas
+
 # cambiando usuario
 USER jenkins
 
