@@ -14,6 +14,17 @@ services:
         networks:
             - net
         restart: unless-stopped
+
     
+    ubuntu_custom:
+        image: ubuntu/docker
+        build:
+            context: docker_ubuntu
+        container_name: ubuntu_uwu
+        restart: unless-stopped    
+
+
+
 networks:
-    net: 
+    net:
+
