@@ -21,4 +21,22 @@ RUN	pip install xlrd
 RUN	pip install openpyxl 
 RUN	pip install xlsxwriter 
 RUN	pip install pandas 
-	
+
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get -y install ssh
+RUN apt-get install -y openssh-server
+RUN mkdir /var/run/sshd
+RUN echo 'root:patagonia' | chpasswd
+#RUN sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
+RUN sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/g' /etc/ssh/sshd_config
+RUN sed 's@session\srequired\spam_loginuid.so@session optional pam_loginuid.so@g' -i /etc/pam.d/sshd
+ENV NOTVISIBLE "in users profile"
+RUN echo "export VISIBLE=now" >> /etc/profile
+#CMD ["/usr/sbin/sshd", "-D"]
+RUN apt install -y default-jre
+
+RUN apt-get -y install tzdata
+#RUN apt-get install -y nginx
+RUN service ssh start
+#CMD "nginx" "-g" "daemon off;"
+CMD /usr/sbin/sshd -D
