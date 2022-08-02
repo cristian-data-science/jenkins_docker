@@ -27,19 +27,18 @@ services:
           
         container_name: ubuntu_uwu
         privileged: true
-        #contaniner_name: jenkins_agent
+        volumes:
+            - $PWD/workspace_agent/workspace:/home/root/workspace
+        
         expose:
             - 22
         environment:
             - JENKIN_AGENT_H_PUBKEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDO9/Hp9XZm0LPqHP10XnqRgrqdfcWLLyexW6xxG4FzsRbYwF06rcNfM7s3H+MdGBnqOqwRI0btDGZlVQEpq3aSXsOGatPUWzbFIuCXrNaD3jEm1IJMOzQvBptQXC4QI3x9qtgSMpR9C6PUHgPznJkCK47HfJ27WwfXelYP/8gsIWdEYW+ljhKfjlIEBXy2GinxkgpLGfMedcoas80Mlh7H/mvrGFOyIMBNcABWU8G/7enTOGlhmRHvs20ANirnU7HVj/jhcYyKxlENHhB5gSXlZKvyON23VIgcZ20eVVwM+M7BQH9GibJb+UJo9g9x8LzA8NYLORKmR3TqtTsHaIOdRDMUDieEr8mR40u0QVDNTrsN8N42TWF/y+9eiSrTLgs0RDZGGOXnVApaavxcwc9/xRwVS7WMEDdekwzeuQ5FRLe374cdGcDQQsx3Eeg7+dsI5hJkIOpLF5788xCZ3Oth/GFp61mmGIE2kR7NUsC0OlrlsKO/c1aPCQODburjLAk= root@7a2becb6e01f
         restart: unless-stopped
-        #command: sh -c "service ssh start"
-        #entrypoint: [ "sh", "-c", ""]
-        #command: "ls -a"
+    
         networks:
             customnetwork:
                 ipv4_address: 192.168.160.2
-
 
 networks:
   customnetwork:

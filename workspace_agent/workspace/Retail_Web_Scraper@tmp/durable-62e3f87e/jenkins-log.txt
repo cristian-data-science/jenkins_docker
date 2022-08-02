@@ -1,0 +1,1767 @@
++ python3 -u Test__main_lip.py
+############ Pagina 1 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+5   Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Bu...  ...  2022-08-02
+6   Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+7   Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+8   Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+9   Chaqueta Hombre Ultimate Stretch Down Jacket V...  ...  2022-08-02
+10  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+11  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+
+[12 rows x 5 columns]
+############ Pagina 2 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+5   Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Bu...  ...  2022-08-02
+6   Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+7   Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+8   Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+9   Chaqueta Hombre Ultimate Stretch Down Jacket V...  ...  2022-08-02
+10  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+11  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+12  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+13  Chaqueta Hombre Seek Softshell Hoody Jacket Az...  ...  2022-08-02
+14                 Bota Hombre Shelter Azul I20 Lippi  ...  2022-08-02
+15         Botín Hombre Terray Mid Verde Oscuro Lippi  ...  2022-08-02
+16         Botin Hombre Woods Pro Mid Terracota Lippi  ...  2022-08-02
+17   Chaqueta Hombre Spry Steam-Pro Jacket Vino Lippi  ...  2022-08-02
+18  Chaqueta Hombre Nightfall Windbreaker Hoody Ja...  ...  2022-08-02
+19  Chaqueta Hombre Blizzard B-Dry Hoody Mostaza I...  ...  2022-08-02
+20  Chaqueta Hombre Bear Shaggy-Pro Hoody Jacket C...  ...  2022-08-02
+21  Chaqueta Hombre Shield B-Dry Hoody Jacket Negr...  ...  2022-08-02
+22  Chaqueta Hombre Spry Steam-Pro Hoody Jacket Gr...  ...  2022-08-02
+23  Chaqueta Hombre Alpine B-Dry Hoody Jacket Negr...  ...  2022-08-02
+
+[24 rows x 5 columns]
+############ Pagina 3 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+5   Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Bu...  ...  2022-08-02
+6   Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+7   Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+8   Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+9   Chaqueta Hombre Ultimate Stretch Down Jacket V...  ...  2022-08-02
+10  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+11  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+12  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+13  Chaqueta Hombre Seek Softshell Hoody Jacket Az...  ...  2022-08-02
+14                 Bota Hombre Shelter Azul I20 Lippi  ...  2022-08-02
+15         Botín Hombre Terray Mid Verde Oscuro Lippi  ...  2022-08-02
+16         Botin Hombre Woods Pro Mid Terracota Lippi  ...  2022-08-02
+17   Chaqueta Hombre Spry Steam-Pro Jacket Vino Lippi  ...  2022-08-02
+18  Chaqueta Hombre Nightfall Windbreaker Hoody Ja...  ...  2022-08-02
+19  Chaqueta Hombre Blizzard B-Dry Hoody Mostaza I...  ...  2022-08-02
+20  Chaqueta Hombre Bear Shaggy-Pro Hoody Jacket C...  ...  2022-08-02
+21  Chaqueta Hombre Shield B-Dry Hoody Jacket Negr...  ...  2022-08-02
+22  Chaqueta Hombre Spry Steam-Pro Hoody Jacket Gr...  ...  2022-08-02
+23  Chaqueta Hombre Alpine B-Dry Hoody Jacket Negr...  ...  2022-08-02
+24  Chaqueta Hombre Coronado Therm-Pro Pullover Me...  ...  2022-08-02
+25  Chaqueta Hombre Alpine B-Dry Hoody Jacket Nara...  ...  2022-08-02
+26                 Botín Hombre Terray Mid Gris Lippi  ...  2022-08-02
+27             Botin Hombre Puelo CS Hi Grafito Lippi  ...  2022-08-02
+28  Chaqueta Hombre Ultimate Stretch Down Jacket M...  ...  2022-08-02
+29  Chaqueta Hombre Brisk Shaggy-Pro Jacket Azul P...  ...  2022-08-02
+30                   Bravo Mid Hombre Terracota Lippi  ...  2022-08-02
+31  Chaqueta Hombre Kobuk Down Hoody Jacket Negro ...  ...  2022-08-02
+32  Chaqueta Plumas Hombre Peak Down Hoody Verde L...  ...  2022-08-02
+33             Botin Hombre Woods Pro Mid Beige Lippi  ...  2022-08-02
+34      Pantalon Hombre Denim Pants Azul Oscuro Lippi  ...  2022-08-02
+35  Chaqueta Hombre Paicavi Therm-Pro 1/4 Zip Jack...  ...  2022-08-02
+
+[36 rows x 5 columns]
+############ Pagina 4 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+5   Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Bu...  ...  2022-08-02
+6   Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+7   Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+8   Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+9   Chaqueta Hombre Ultimate Stretch Down Jacket V...  ...  2022-08-02
+10  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+11  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+12  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+13  Chaqueta Hombre Seek Softshell Hoody Jacket Az...  ...  2022-08-02
+14                 Bota Hombre Shelter Azul I20 Lippi  ...  2022-08-02
+15         Botín Hombre Terray Mid Verde Oscuro Lippi  ...  2022-08-02
+16         Botin Hombre Woods Pro Mid Terracota Lippi  ...  2022-08-02
+17   Chaqueta Hombre Spry Steam-Pro Jacket Vino Lippi  ...  2022-08-02
+18  Chaqueta Hombre Nightfall Windbreaker Hoody Ja...  ...  2022-08-02
+19  Chaqueta Hombre Blizzard B-Dry Hoody Mostaza I...  ...  2022-08-02
+20  Chaqueta Hombre Bear Shaggy-Pro Hoody Jacket C...  ...  2022-08-02
+21  Chaqueta Hombre Shield B-Dry Hoody Jacket Negr...  ...  2022-08-02
+22  Chaqueta Hombre Spry Steam-Pro Hoody Jacket Gr...  ...  2022-08-02
+23  Chaqueta Hombre Alpine B-Dry Hoody Jacket Negr...  ...  2022-08-02
+24  Chaqueta Hombre Coronado Therm-Pro Pullover Me...  ...  2022-08-02
+25  Chaqueta Hombre Alpine B-Dry Hoody Jacket Nara...  ...  2022-08-02
+26                 Botín Hombre Terray Mid Gris Lippi  ...  2022-08-02
+27             Botin Hombre Puelo CS Hi Grafito Lippi  ...  2022-08-02
+28  Chaqueta Hombre Ultimate Stretch Down Jacket M...  ...  2022-08-02
+29  Chaqueta Hombre Brisk Shaggy-Pro Jacket Azul P...  ...  2022-08-02
+30                   Bravo Mid Hombre Terracota Lippi  ...  2022-08-02
+31  Chaqueta Hombre Kobuk Down Hoody Jacket Negro ...  ...  2022-08-02
+32  Chaqueta Plumas Hombre Peak Down Hoody Verde L...  ...  2022-08-02
+33             Botin Hombre Woods Pro Mid Beige Lippi  ...  2022-08-02
+34      Pantalon Hombre Denim Pants Azul Oscuro Lippi  ...  2022-08-02
+35  Chaqueta Hombre Paicavi Therm-Pro 1/4 Zip Jack...  ...  2022-08-02
+36  Chaqueta Hombre Paicavi Therm-Pro 1/4 Zip Jack...  ...  2022-08-02
+37  Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+38  Primera Capa Hombre Skintec 3000 1/4 Zip Top A...  ...  2022-08-02
+39  Chaqueta Hombre Coronado Therm-Pro Pullover Me...  ...  2022-08-02
+40  Chaqueta Hombre Ultimate Stretch Down Hoody Ja...  ...  2022-08-02
+41  Chaqueta Hombre Ultimate Stretch Down Jacket N...  ...  2022-08-02
+42  Primera Capa Hombre Skintec 3000 Bottom Negro ...  ...  2022-08-02
+43  Chaqueta Hombre Coronado Therm-Pro Jacket Mela...  ...  2022-08-02
+44               Botin Hombre Puelo CS Hi Negro Lippi  ...  2022-08-02
+45    Chaqueta Hombre Peak Down Hoody Cobre I20 Lippi  ...  2022-08-02
+46  Chaqueta Hombre Ultimate Stretch Down Hoody Ja...  ...  2022-08-02
+47  Chaqueta Hombre Kobuk Down Hoody Jacket Verde ...  ...  2022-08-02
+
+[48 rows x 5 columns]
+############ Pagina 5 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+5   Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Bu...  ...  2022-08-02
+6   Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+7   Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+8   Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+9   Chaqueta Hombre Ultimate Stretch Down Jacket V...  ...  2022-08-02
+10  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+11  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+12  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+13  Chaqueta Hombre Seek Softshell Hoody Jacket Az...  ...  2022-08-02
+14                 Bota Hombre Shelter Azul I20 Lippi  ...  2022-08-02
+15         Botín Hombre Terray Mid Verde Oscuro Lippi  ...  2022-08-02
+16         Botin Hombre Woods Pro Mid Terracota Lippi  ...  2022-08-02
+17   Chaqueta Hombre Spry Steam-Pro Jacket Vino Lippi  ...  2022-08-02
+18  Chaqueta Hombre Nightfall Windbreaker Hoody Ja...  ...  2022-08-02
+19  Chaqueta Hombre Blizzard B-Dry Hoody Mostaza I...  ...  2022-08-02
+20  Chaqueta Hombre Bear Shaggy-Pro Hoody Jacket C...  ...  2022-08-02
+21  Chaqueta Hombre Shield B-Dry Hoody Jacket Negr...  ...  2022-08-02
+22  Chaqueta Hombre Spry Steam-Pro Hoody Jacket Gr...  ...  2022-08-02
+23  Chaqueta Hombre Alpine B-Dry Hoody Jacket Negr...  ...  2022-08-02
+24  Chaqueta Hombre Coronado Therm-Pro Pullover Me...  ...  2022-08-02
+25  Chaqueta Hombre Alpine B-Dry Hoody Jacket Nara...  ...  2022-08-02
+26                 Botín Hombre Terray Mid Gris Lippi  ...  2022-08-02
+27             Botin Hombre Puelo CS Hi Grafito Lippi  ...  2022-08-02
+28  Chaqueta Hombre Ultimate Stretch Down Jacket M...  ...  2022-08-02
+29  Chaqueta Hombre Brisk Shaggy-Pro Jacket Azul P...  ...  2022-08-02
+30                   Bravo Mid Hombre Terracota Lippi  ...  2022-08-02
+31  Chaqueta Hombre Kobuk Down Hoody Jacket Negro ...  ...  2022-08-02
+32  Chaqueta Plumas Hombre Peak Down Hoody Verde L...  ...  2022-08-02
+33             Botin Hombre Woods Pro Mid Beige Lippi  ...  2022-08-02
+34      Pantalon Hombre Denim Pants Azul Oscuro Lippi  ...  2022-08-02
+35  Chaqueta Hombre Paicavi Therm-Pro 1/4 Zip Jack...  ...  2022-08-02
+36  Chaqueta Hombre Paicavi Therm-Pro 1/4 Zip Jack...  ...  2022-08-02
+37  Chaqueta Hombre Citizen Cotton B-Dry Hoody Jac...  ...  2022-08-02
+38  Primera Capa Hombre Skintec 3000 1/4 Zip Top A...  ...  2022-08-02
+39  Chaqueta Hombre Coronado Therm-Pro Pullover Me...  ...  2022-08-02
+40  Chaqueta Hombre Ultimate Stretch Down Hoody Ja...  ...  2022-08-02
+41  Chaqueta Hombre Ultimate Stretch Down Jacket N...  ...  2022-08-02
+42  Primera Capa Hombre Skintec 3000 Bottom Negro ...  ...  2022-08-02
+43  Chaqueta Hombre Coronado Therm-Pro Jacket Mela...  ...  2022-08-02
+44               Botin Hombre Puelo CS Hi Negro Lippi  ...  2022-08-02
+45    Chaqueta Hombre Peak Down Hoody Cobre I20 Lippi  ...  2022-08-02
+46  Chaqueta Hombre Ultimate Stretch Down Hoody Ja...  ...  2022-08-02
+47  Chaqueta Hombre Kobuk Down Hoody Jacket Verde ...  ...  2022-08-02
+48  Chaqueta Plumas Hombre Peak Down Hoody Calipso...  ...  2022-08-02
+49                        Bravo Mid Hombre Gris Lippi  ...  2022-08-02
+50        Camisa Hombre Lumberjack Shirt Laurel Lippi  ...  2022-08-02
+51  Primera Capa Hombre Skintec 2000 Seamless Top ...  ...  2022-08-02
+52  Chaqueta Hombre Blizzard B-Dry Hoody Jacket Gr...  ...  2022-08-02
+53  Chaqueta Hombre Ultimate Stretch Down Hoody Ja...  ...  2022-08-02
+54                       Bravo Mid Hombre Taupe Lippi  ...  2022-08-02
+55  Chaqueta Hombre Coronado Therm-Pro Vest Melang...  ...  2022-08-02
+56  Chaqueta Hombre Nalca Fusion-3 Hoody Jacket Ne...  ...  2022-08-02
+57  Primera Capa Hombre Skintec 2000 Seamless Top ...  ...  2022-08-02
+58  Pantalon Hombre Dinamic Softshell Pants Azul M...  ...  2022-08-02
+59  Zapatilla Hombre Vulcano Shell Stone Bdry Cara...  ...  2022-08-02
+
+[60 rows x 5 columns]
+############ Pagina 6 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+67    Chaqueta Hombre Peak Down Hoody Negro I20 Lippi  ...  2022-08-02
+68  Chaqueta Hombre Wrap Up Blend-Pro Jacket Gris ...  ...  2022-08-02
+69  Chaqueta Hombre Andes B-Dry Hoody Jacket Negro...  ...  2022-08-02
+70  Chaqueta Hombre Brisk Shaggy-Pro Jacket Negro ...  ...  2022-08-02
+71  Chaqueta Hombre Shield B-Dry Hoody Jacket Most...  ...  2022-08-02
+
+[72 rows x 5 columns]
+############ Pagina 7 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+79                Botin Hombre Puelo CS Hi Café Lippi  ...  2022-08-02
+80  Chaqueta Hombre Shield B-Dry Hoody Jacket Salm...  ...  2022-08-02
+81  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+82  Chaqueta Hombre Warmy Hoody Sweatshirt Negro L...  ...  2022-08-02
+83  Chaqueta Hombre Macaya Softshell Hoody Jacket ...  ...  2022-08-02
+
+[84 rows x 5 columns]
+############ Pagina 8 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0      Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1   Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2   Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3               Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4             Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+91  Chaqueta Hombre Bazpur Down Hoody Jacket Negro...  ...  2022-08-02
+92  Chaqueta Hombre Wrap Up Blend-Pro Jacket Cafe ...  ...  2022-08-02
+93                Botin Hombre Puelo CS Hi Rojo Lippi  ...  2022-08-02
+94      Pantalon Hombre Pardo Mix-2 Q-Dry Pants Negro  ...  2022-08-02
+95  Chaqueta Hombre Coronado Therm-Pro Jacket Mela...  ...  2022-08-02
+
+[96 rows x 5 columns]
+############ Pagina 9 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+103  Zapatilla Hombre Vulcano Moon Stone Green Grey...  ...  2022-08-02
+104      Pantalon Hombre Pardo Mix-2 Q-Dry Pants Caqui  ...  2022-08-02
+105                     Short Hombre Fury Shorts Negro  ...  2022-08-02
+106          Pantalon Hombre Pioneer Q-Dry Pants Negro  ...  2022-08-02
+107  Chaqueta Hombre Annapurna Down Hoody Verde Osc...  ...  2022-08-02
+
+[108 rows x 5 columns]
+############ Pagina 10 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+115  Chaqueta Hombre Long Line Steam-Pro Hoody Jack...  ...  2022-08-02
+116              Zapatilla Hombre Panal III Gris Lippi  ...  2022-08-02
+117         Polera Hombre Jet Polo Melange Azul Marino  ...  2022-08-02
+118  Chaqueta Hombre Spry Steam-Pro Hoody Jacket Az...  ...  2022-08-02
+119  Polera Hombre First Class Elastic Polo Melange...  ...  2022-08-02
+
+[120 rows x 5 columns]
+############ Pagina 11 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+127  Chaqueta Hombre Tres Cruces Fusion-3 Hoody Jac...  ...  2022-08-02
+128  Chaqueta Hombre Blizzard B-Dry Hoody Jacket Tu...  ...  2022-08-02
+129  Chaqueta Hombre Spry WindBreaker Nano-F Hoody ...  ...  2022-08-02
+130  Chaqueta Hombre Coronado Therm-Pro Vest Melang...  ...  2022-08-02
+131  Pantalon Hombre Enduring Mix-2 Q-Dry Pants Oli...  ...  2022-08-02
+
+[132 rows x 5 columns]
+############ Pagina 12 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+139    Polera Hombre Ulmo Cotton UV-Stop T-Shirt Negro  ...  2022-08-02
+140  Chaqueta Hombre Bruce Waxed Jacket Oliva Oscur...  ...  2022-08-02
+141  Pantalón Hombre Snow Raptor B-Dry Verde Oscuro...  ...  2022-08-02
+142  Poleron Hombre Insigne Full Zip Hoody Sweatshi...  ...  2022-08-02
+143  Zapatilla Hombre Vulcano Moon Stone Triple Bla...  ...  2022-08-02
+
+[144 rows x 5 columns]
+############ Pagina 13 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+150  Polera Hombre Ulmo Cotton UV-Stop T-Shirt Turq...  ...  2022-08-02
+151  Chaqueta Hombre Coronado Therm-Pro Vest Melang...  ...  2022-08-02
+152        Polera Hombre First Class Elastic Polo Vino  ...  2022-08-02
+153   Short Hombre Nest Q-Dry Cargo Shorts Azul Piedra  ...  2022-08-02
+154        Botin Hombre Light Rock Mid II Indigo Lippi  ...  2022-08-02
+
+[155 rows x 5 columns]
+############ Pagina 14 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+162  Chaqueta Hombre Paicavi Therm-Pro Jacket Negro...  ...  2022-08-02
+163            Polera Hombre Dawn UV-Stop T-Shirt Vino  ...  2022-08-02
+164      Polera Hombre Heritage UV-Stop T-Shirt Blanco  ...  2022-08-02
+165               Botin Hombre Puelo CS Hi Acero Lippi  ...  2022-08-02
+166  Polera Hombre Ulmo Cotton UV-Stop T-Shirt Azul...  ...  2022-08-02
+
+[167 rows x 5 columns]
+############ Pagina 15 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+174  Polera Hombre B-Classic Seamless Polo Burdeo L...  ...  2022-08-02
+175         Polera Hombre Origins UV-Stop T-Shirt Lila  ...  2022-08-02
+176  Chaqueta Hombre Paicavi Therm-Pro Jacket Gris ...  ...  2022-08-02
+177  Camisa Hombre Rosselot Long Sleeve Q-Dry Shirt...  ...  2022-08-02
+178  Chaqueta Hombre Paicavi Therm-Pro Jacket Camel...  ...  2022-08-02
+
+[179 rows x 5 columns]
+############ Pagina 16 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+186  Pantalon Hombre Pardo Mix-2 Q-Dry Pants Gris O...  ...  2022-08-02
+187  Chaqueta Hombre Wrap Up Blend-Pro Jacket Camel...  ...  2022-08-02
+188  Zapatilla Hombre Vulcano Iron Stone Dark Grey ...  ...  2022-08-02
+189  Poleron Hombre Lighter Nano-F 1/4 Zip Negro Lippi  ...  2022-08-02
+190   Polera Hombre Hikers UV-Stop T-Shirt Azul Piedra  ...  2022-08-02
+
+[191 rows x 5 columns]
+############ Pagina 17 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+198  Polera Hombre Ulmo Cotton UV-Stop T-Shirt Verd...  ...  2022-08-02
+199         Short Hombre Nest Q-Dry Shorts Azul Piedra  ...  2022-08-02
+200  Polera Deportiva Hombre B-Ready Seamless Grafi...  ...  2022-08-02
+201  Zapatilla Hombre Vulcano Moon Stone Red Lava L...  ...  2022-08-02
+202  Polera Hombre Logo Lippi UV-Stop T-Shirt Blanc...  ...  2022-08-02
+
+[203 rows x 5 columns]
+############ Pagina 18 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+210              Zapatilla Hombre Panal III Azul Lippi  ...  2022-08-02
+211        Polera Hombre First Class Elastic Polo Navy  ...  2022-08-02
+212  Chaqueta Hombre Wrap Up Blend-Pro Jacket Verde...  ...  2022-08-02
+213  Poleron Hombre Jacaranda Nano-F 1/4 Zip Hoody ...  ...  2022-08-02
+214  Chaqueta Hombre Brisk Shaggy-Pro Jacket Ladril...  ...  2022-08-02
+
+[215 rows x 5 columns]
+############ Pagina 19 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+222  Camisa Hombre Rosselot Short Sleeve Q-Dry Shir...  ...  2022-08-02
+223  Polera Hombre First Class Elastic Polo Azul Noche  ...  2022-08-02
+224      Polera Hombre Origins UV-Stop T-Shirt Grafito  ...  2022-08-02
+225     Poleron Hombre Just Move Nano-F 14 Zip Grafito  ...  2022-08-02
+226   Polera Hombre Logo Lippi UV-Stop T-Shirt Grafito  ...  2022-08-02
+
+[227 rows x 5 columns]
+############ Pagina 20 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+234  Poleron Hombre Stripes Nano-F Full Zip Hoody V...  ...  2022-08-02
+235  Chaqueta Hombre Paicavi Therm-Pro Jacket Vino ...  ...  2022-08-02
+236  Polera Hombre Logo Lippi UV-Stop T-Shirt Terra...  ...  2022-08-02
+237  Polera Hombre First Class Elastic Polo Verde O...  ...  2022-08-02
+238            Short Hombre Fury Shorts Verde Grisaceo  ...  2022-08-02
+
+[239 rows x 5 columns]
+############ Pagina 21 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+246  Polera Hombre Ulmo Cotton UV-Stop T-Shirt Cele...  ...  2022-08-02
+247  Polera Hombre B-Classic Seamless Polo Grafito ...  ...  2022-08-02
+248   Chaqueta Hombre Spry Steam-Pro Jacket Azul Noche  ...  2022-08-02
+249  Polera Hombre Origins UV-Stop T-Shirt Oliva Os...  ...  2022-08-02
+250  Poleron Hombre Insigne Hoody Sweatshirt Verde ...  ...  2022-08-02
+
+[251 rows x 5 columns]
+############ Pagina 22 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+258  Chaqueta Hombre Snowmass Steam-Pro Jacket Gris...  ...  2022-08-02
+259     Polera Hombre Logo Lippi UV-Stop T-Shirt Negro  ...  2022-08-02
+260            Zapatilla Hombre Slate B-Dry Gris Lippi  ...  2022-08-02
+261   Polera Hombre Logo Lippi UV-Stop T-Shirt Mostaza  ...  2022-08-02
+262  Polera Hombre Challenge Seamless T-Shirt Verde...  ...  2022-08-02
+
+[263 rows x 5 columns]
+############ Pagina 23 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+270  Chaqueta Hombre Shield B-Dry Hoody Jacket Salm...  ...  2022-08-02
+271                  Botin Hombre Woods Mid Azul Lippi  ...  2022-08-02
+272    Poleron Hombre Insigne Hoody Sweatshirt Grafito  ...  2022-08-02
+273         Botin Hombre Light Rock Mid II Negro Lippi  ...  2022-08-02
+274  Polera Hombre Challenge Seamless T-Shirt Azul ...  ...  2022-08-02
+
+[275 rows x 5 columns]
+############ Pagina 24 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+282  Poleron Hombre Jacaranda Nano-F 1/4 Zip Grafit...  ...  2022-08-02
+283  Primera Capa Hombre Skintec 1000 Seamless Top ...  ...  2022-08-02
+284    Polera Hombre Challenge Seamless T-Shirt Blanco  ...  2022-08-02
+285            Polera Hombre Gear UV-Stop T-Shirt Lila  ...  2022-08-02
+286       Short Hombre Nest Q-Dry Cargo Shorts Grafito  ...  2022-08-02
+
+[287 rows x 5 columns]
+############ Pagina 25 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+294  Polera Hombre Heritage UV-Stop T-Shirt Cafe Pardo  ...  2022-08-02
+295  Polera Polo Deportiva Hombre B-Classic Seamles...  ...  2022-08-02
+296         Polera Hombre Dawn UV-Stop T-Shirt Celeste  ...  2022-08-02
+297     Polera Hombre Base Camp UV-Stop T-Shirt Blanco  ...  2022-08-02
+298  Polera Polo Deportiva Hombre B-Classic Seamles...  ...  2022-08-02
+
+[299 rows x 5 columns]
+############ Pagina 26 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+306         Polera Hombre Henley Organic T-Shirt Negro  ...  2022-08-02
+307        Short Hombre Challenge Shorts Grafito Lippi  ...  2022-08-02
+308      Polera Hombre Road Trip UV-Stop T-Shirt Camel  ...  2022-08-02
+309  Polera Hombre Logo Lippi UV-Stop T-Shirt Blanc...  ...  2022-08-02
+310       Polera Hombre Heritage UV-Stop T-Shirt Negro  ...  2022-08-02
+
+[311 rows x 5 columns]
+############ Pagina 27 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+318   Poleron Hombre Lighter Nano-F 1/4 Zip Vino Lippi  ...  2022-08-02
+319               Short Hombre Nest Q-Dry Shorts Caqui  ...  2022-08-02
+320  Camisa Hombre Alloy Long Sleeve Shirt Melange ...  ...  2022-08-02
+321          Polera Hombre Lens UV-Stop T-Shirt Blanco  ...  2022-08-02
+322  Camisa Hombre Alloy Long Sleeve Shirt Melange ...  ...  2022-08-02
+
+[323 rows x 5 columns]
+############ Pagina 28 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+329  Zapatilla Hombre Vulcano Iron Stone Mid Bdry B...  ...  2022-08-02
+330          Polera Hombre Terra UV-Stop T-Shirt Negro  ...  2022-08-02
+331  Chaqueta Hombre Spry WindBreaker 14 Zip Hoody ...  ...  2022-08-02
+332   Polera Hombre Terra UV-Stop T-Shirt Oliva Oscuro  ...  2022-08-02
+333  Poleron Hombre Jacaranda Mountain Nano-F 1/4 Z...  ...  2022-08-02
+
+[334 rows x 5 columns]
+############ Pagina 29 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+341   Poleron Hombre Lighter Nano-F 14 Zip Azul Piedra  ...  2022-08-02
+342  Camisa Hombre Rosselot Long Sleeve Q-Dry Shirt...  ...  2022-08-02
+343  Camisa Hombre Woodpecker Short Sleeve Shirt Pr...  ...  2022-08-02
+344            Polera Deportiva Hombre Core Vino Lippi  ...  2022-08-02
+345  Polera Hombre First Class Elastic Polo Azul Lippi  ...  2022-08-02
+
+[346 rows x 5 columns]
+############ Pagina 30 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+353  Zapatilla Hombre Vulcano Iron Stone Mid Bdry M...  ...  2022-08-02
+354  Polera Hombre B-Classic Seamless Polo Azulino ...  ...  2022-08-02
+355       Poleron Hombre Lighter Nano-F 14 Zip Grafito  ...  2022-08-02
+356  Primera Capa Hombre Skintec 1000 Seamless Top ...  ...  2022-08-02
+357               Botin Hombre Puelo CS Low Gris Lippi  ...  2022-08-02
+
+[358 rows x 5 columns]
+############ Pagina 31 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+365  Polera Hombre Heritage UV-Stop T-Shirt Turques...  ...  2022-08-02
+366  Polera Hombre Logo Lippi UV-Stop T-Shirt Gris ...  ...  2022-08-02
+367  Polera Hombre Core Q-Dry T-Shirt Melange Gris ...  ...  2022-08-02
+368  Chaqueta Hombre Ferret Shaggy-Pro Jacket Azul ...  ...  2022-08-02
+369  Polera Hombre Gear UV-Stop T-Shirt Verde Grisaceo  ...  2022-08-02
+
+[370 rows x 5 columns]
+############ Pagina 32 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+377  Camisa Hombre Alloy Long Sleeve Shirt Caqui Lippi  ...  2022-08-02
+378   Polera Hombre Henley Organic T-Shirt Azul Piedra  ...  2022-08-02
+379  Polera Polo Hombre First Class Elastic Melange...  ...  2022-08-02
+380        Polera Hombre Heritage UV-Stop T-Shirt Azul  ...  2022-08-02
+381  Camisa Hombre Alloy Long Sleeve Shirt Melange ...  ...  2022-08-02
+
+[382 rows x 5 columns]
+############ Pagina 33 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+389         Chaleco Hombre Sureño Print Café Haka Honu  ...  2022-08-02
+390     Chaqueta Hombre Agua-zero Print Vino Haka Honu  ...  2022-08-02
+391         Chaqueta Hombre Perro Guapo Azul Haka Honu  ...  2022-08-02
+392        Chaqueta Hombre Perro Guapo Negro Haka Honu  ...  2022-08-02
+393          Chaqueta Hombre Agua-zero Verde Haka Honu  ...  2022-08-02
+
+[394 rows x 5 columns]
+############ Pagina 34 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+401                  Botin Hombre Haka Honu Pampa Gris  ...  2022-08-02
+402               Camisa Hombre Hachazo Azul Haka Honu  ...  2022-08-02
+403            Poleron Hombre Polaroid Negro Haka Honu  ...  2022-08-02
+404  Camisa Hombre Mermelada de Perla Burdeo Haka Honu  ...  2022-08-02
+405        Camisa Hombre Clásica Azul Marino Haka Honu  ...  2022-08-02
+
+[406 rows x 5 columns]
+############ Pagina 35 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+413  Primera capa Hombre Haka Honu Huemul Bottom Negro  ...  2022-08-02
+414               Chaqueta Hombre Brisa Azul Haka Honu  ...  2022-08-02
+415         Chaqueta Hombre Perro Guapo Vino Haka Honu  ...  2022-08-02
+416  Poleron Hombre Tokerau insulado Mostaza Haka Honu  ...  2022-08-02
+417          Pantalon Hombre Versatiro Negro Haka Honu  ...  2022-08-02
+
+[418 rows x 5 columns]
+############ Pagina 36 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+425  Camisa Hombre Mermelada de Perla Verde Militar...  ...  2022-08-02
+426              Poleron Hombre Haka Honu Del Sur Azul  ...  2022-08-02
+427         Poleron Hombre Haka Honu Tokerau Pro Negro  ...  2022-08-02
+428             Chaqueta Hombre Noes-Ni Azul Haka Honu  ...  2022-08-02
+429                 Polera Hombre Haka Honu Haka Crudo  ...  2022-08-02
+
+[430 rows x 5 columns]
+############ Pagina 37 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+437  Poleron Hombre Haka Honu Tokerau insulado Mela...  ...  2022-08-02
+438            Poleron Hombre Refugia-T Café Haka Honu  ...  2022-08-02
+439          Chaqueta Hombre Agua-zero Negro Haka Honu  ...  2022-08-02
+440  Chaqueta Hombre Haka Honu Ultraliviana Verde M...  ...  2022-08-02
+441        Chaqueta Hombre Zip-porrito Negro Haka Honu  ...  2022-08-02
+
+[442 rows x 5 columns]
+############ Pagina 38 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+449           Poleron Hombre Refugia-T Oliva Haka Honu  ...  2022-08-02
+450       Chaqueta Hombre Caluro-sin Mostaza Haka Honu  ...  2022-08-02
+451         Poleron Hombre Taina Nui Mostaza Haka Honu  ...  2022-08-02
+452           Chaqueta Hombre Bi-polar Negro Haka Honu  ...  2022-08-02
+453              Poleron Hombre Taina Burdeo Haka Honu  ...  2022-08-02
+
+[454 rows x 5 columns]
+############ Pagina 39 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+461           Chaqueta Hombre Calur-oso Café Haka Honu  ...  2022-08-02
+462                Pantalon Hombre Zen Negro Haka Honu  ...  2022-08-02
+463              Poleron Hombre Tokerau Gris Haka Honu  ...  2022-08-02
+464               Poleron Hombre Taina Negro Haka Honu  ...  2022-08-02
+465  Poleron Hombre Haka Honu Tokerau insulado Mela...  ...  2022-08-02
+
+[466 rows x 5 columns]
+############ Pagina 40 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+473            Polera Hombre Norte Sur Negro Haka Honu  ...  2022-08-02
+474            Chaqueta Hombre No-cuero Café Haka Honu  ...  2022-08-02
+475            Sandalia Hombre Haka Honu Pancora Negro  ...  2022-08-02
+476     Chaqueta Hombre Calur-oso Print Café Haka Honu  ...  2022-08-02
+477             Poleron Hombre Del Sur Verde Haka Honu  ...  2022-08-02
+
+[478 rows x 5 columns]
+############ Pagina 41 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+485            Poleron Hombre Haka Honu Emiliodon Azul  ...  2022-08-02
+486              Polera Hombre Haka Honu Natural Camel  ...  2022-08-02
+487              Chaqueta Hombre Brisa Verde Haka Honu  ...  2022-08-02
+488     Poleron Hombre Tokerau insulado Azul Haka Honu  ...  2022-08-02
+489               Botin Hombre Haka Honu Patagon Negro  ...  2022-08-02
+
+[490 rows x 5 columns]
+############ Pagina 42 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+497  Chaqueta Hombre Ultraliviana Print Café Haka Honu  ...  2022-08-02
+498             Poleron Hombre Tokerau Negro Haka Honu  ...  2022-08-02
+499           Poleron Hombre Haka Honu Emiliodon Negro  ...  2022-08-02
+500        Enterito Hombre Haka Honu Navegao Terracota  ...  2022-08-02
+501          Chaqueta Hombre Calentito Negro Haka Honu  ...  2022-08-02
+
+[502 rows x 5 columns]
+############ Pagina 43 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+509  Pantalon Hombre Haka Honu Desmontalo Verde mil...  ...  2022-08-02
+510             Polera Hombre Haka Honu Polo Palo Rosa  ...  2022-08-02
+511       Poleron Hombre Haka Honu Tio Emiliodon Negro  ...  2022-08-02
+512             Polera Hombre Haka Terracota Haka Honu  ...  2022-08-02
+513             Poleron Hombre Taina Mostaza Haka Honu  ...  2022-08-02
+
+[514 rows x 5 columns]
+############ Pagina 44 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+521                  Polera Hombre Haka Honu Polo Gris  ...  2022-08-02
+522                  Polera Hombre Haka Honu Polo Jade  ...  2022-08-02
+523           Polera Hombre Norte Sur Rosado Haka Honu  ...  2022-08-02
+524              Polera Hombre Haka Honu Natural Crudo  ...  2022-08-02
+525          Camisa Hombre Haka Honu Anameizon Grafito  ...  2022-08-02
+
+[526 rows x 5 columns]
+############ Pagina 45 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+533     Poleron Hombre Cangur-oso Print Azul Haka Honu  ...  2022-08-02
+534  Chaqueta Hombre Calur-oso Print Terracota Haka...  ...  2022-08-02
+535               Polera Hombre Haka Honu Haka Grafito  ...  2022-08-02
+536            Chaqueta Hombre Bi-polar Café Haka Honu  ...  2022-08-02
+537             Short Hombre Haka Honu Canchero Burdeo  ...  2022-08-02
+
+[538 rows x 5 columns]
+############ Pagina 46 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+545            Polera Hombre Haka Honu San Pedro Beige  ...  2022-08-02
+546             Camisa Hombre Haka Honu Aflora Damasco  ...  2022-08-02
+547        Poleron Hombre Haka Honu Polaroid Terracota  ...  2022-08-02
+548               Camisa Hombre Haka Honu Aflora Crudo  ...  2022-08-02
+549     Polera Hombre Haka Honu Bi-curioso Azul Marino  ...  2022-08-02
+
+[550 rows x 5 columns]
+############ Pagina 47 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+557          Chaqueta Hombre Haka Honu Sin-etica Verde  ...  2022-08-02
+558          Polera Hombre Haka Honu San Pedro Celeste  ...  2022-08-02
+559               Short Hombre Haka Honu Anfibio Negro  ...  2022-08-02
+560        Chaqueta Hombre Haka Honu Ultraliviana Cafe  ...  2022-08-02
+561               Polera Hombre Haka Honu Vuelvo Crudo  ...  2022-08-02
+
+[562 rows x 5 columns]
+############ Pagina 48 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+569          Botín Hombre Tellus Mid Café Oscuro Lippi  ...  2022-08-02
+570         Botín Hombre Tellus Mid Verde Oscuro Lippi  ...  2022-08-02
+571         Botín Hombre Tellus Mid Taupe Oscuro Lippi  ...  2022-08-02
+572       Botín Hombre Tellus Mid Marengo Oscuro Lippi  ...  2022-08-02
+573  Zapatilla Hombre Vulcano Shell Stone Bdry Gree...  ...  2022-08-02
+
+[574 rows x 5 columns]
+############ Pagina 49 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+581              Poleron Hombre Ninja Burdeo Haka Honu  ...  2022-08-02
+582             Poleron Hombre Ninja Mostaza Haka Honu  ...  2022-08-02
+583               Poleron Hombre Ninja Negro Haka Honu  ...  2022-08-02
+584  Chaqueta Hombre Valley Sherpa-Pro Jacket Negro...  ...  2022-08-02
+585  Poleron Hombre Jacaranda Nano-F 1/4 Zip Azul L...  ...  2022-08-02
+
+[586 rows x 5 columns]
+############ Pagina 50 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+593              Chaqueta Hombre Joplin Azul Haka Honu  ...  2022-08-02
+594           Chaqueta Hombre Joplin Celeste Haka Honu  ...  2022-08-02
+595            Chaqueta Hombre Puihua Burdeo Haka Honu  ...  2022-08-02
+596       Chaqueta Hombre Puihua Print Verde Haka Honu  ...  2022-08-02
+597           Poleron Hombre Hoodini Mostaza Haka Honu  ...  2022-08-02
+
+[598 rows x 5 columns]
+############ Pagina 51 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+605  Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+606               Pantalon Hombre Kunk Negro Haka Honu  ...  2022-08-02
+607            Camisa Hombre Camanchaca Azul Haka Honu  ...  2022-08-02
+608          Camisa Hombre Camanchaca Burdeo Haka Honu  ...  2022-08-02
+609     Polera Hombre Simetría Hippie Burdeo Haka Honu  ...  2022-08-02
+
+[610 rows x 5 columns]
+############ Pagina 52 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+617  Poleron Hombre Stripes Nano-F Full Zip Vino Lippi  ...  2022-08-02
+618          Pantalon Hombre Montatelo Negro Haka Honu  ...  2022-08-02
+619  Pantalon Hombre Montatelo Verde Militar Haka Honu  ...  2022-08-02
+620            Poleron Hombre Haka Honu Polaroid Negro  ...  2022-08-02
+621  Poleron Hombre Stripes Nano-F Full Zip Hoody A...  ...  2022-08-02
+
+[622 rows x 5 columns]
+############ Pagina 53 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+629           Chaqueta Hombre Kilperry Verde Haka Honu  ...  2022-08-02
+630              Poleron Hombre Canguro Azul Haka Honu  ...  2022-08-02
+631            Poleron Hombre Canguro Burdeo Haka Honu  ...  2022-08-02
+632             Poleron Hombre Canguro Negro Haka Honu  ...  2022-08-02
+633  Guantes B-Connect Therm-Pro Glove Hombre Negro...  ...  2022-08-02
+
+[634 rows x 5 columns]
+############ Pagina 54 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0       Botín Hombre Light Rock Mid II All Black Lippi  ...  2022-08-02
+1    Chaqueta Hombre Andes B-Dry Hoody Jacket Azul ...  ...  2022-08-02
+2    Chaqueta Hombre Cold Place B-Dry Hoody Jacket ...  ...  2022-08-02
+3                Botin Hombre Woods Pro Mid Gris Lippi  ...  2022-08-02
+4              Pantalon Hombre Denim Pants Negro Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+640        Alpargata Unisex Marea Alta Beige Haka Honu  ...  2022-08-02
+641        Alpargata Unisex Marea Alta Limón Haka Honu  ...  2022-08-02
+642        Alpargata Unisex Marea Baja Limón Haka Honu  ...  2022-08-02
+643        Alpargata Unisex Marea Baja Beige Haka Honu  ...  2022-08-02
+644        Alpargata Unisex Marea Baja Negro Haka Honu  ...  2022-08-02
+
+[645 rows x 5 columns]
+
+TimeOut
+saliendo del while
+############ Pagina 1 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+5   Chaqueta Mujer Paicavi Therm-Pro Jacket Burdeo...  ...  2022-08-02
+6               Polera Mujer Core T-Shirt Negro Lippi  ...  2022-08-02
+7   Primera Capa Mujer Skintec 2000 Seamless Top H...  ...  2022-08-02
+8       Chaqueta Mujer Baggy Sweatshirt Grafito Lippi  ...  2022-08-02
+9   Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+10  Primera Capa Mujer Skintec 3000 Bottom Negro L...  ...  2022-08-02
+11  Chaqueta Mujer Seek Softshell Hoody Jacket Vin...  ...  2022-08-02
+
+[12 rows x 5 columns]
+############ Pagina 2 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+5   Chaqueta Mujer Paicavi Therm-Pro Jacket Burdeo...  ...  2022-08-02
+6               Polera Mujer Core T-Shirt Negro Lippi  ...  2022-08-02
+7   Primera Capa Mujer Skintec 2000 Seamless Top H...  ...  2022-08-02
+8       Chaqueta Mujer Baggy Sweatshirt Grafito Lippi  ...  2022-08-02
+9   Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+10  Primera Capa Mujer Skintec 3000 Bottom Negro L...  ...  2022-08-02
+11  Chaqueta Mujer Seek Softshell Hoody Jacket Vin...  ...  2022-08-02
+12  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+13      Chaqueta Mujer Peak Down Hoody Vino I20 Lippi  ...  2022-08-02
+14  Chaqueta Mujer Macaya Softshell Hoody Jacket A...  ...  2022-08-02
+15                 Botin Mujer Puelo CS Hi Jade Lippi  ...  2022-08-02
+16  Chaqueta Mujer Paicavi Therm-Pro Jacket Verde ...  ...  2022-08-02
+17           Polera Deportiva Mujer Core Rosado Lippi  ...  2022-08-02
+18               Botin Mujer Puelo CS Hi Burdeo Lippi  ...  2022-08-02
+19  Poleron Mujer Stripes Nano-F Full Zip Hoody Az...  ...  2022-08-02
+20  Chaqueta Mujer Macaya Softshell Hoody Jacket N...  ...  2022-08-02
+21  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+22  Chaqueta Mujer Tres Cruces Fusion-3 Hoody Jack...  ...  2022-08-02
+23  Chaqueta Mujer Furry Shaggy-Pro Jacket Grafito...  ...  2022-08-02
+
+[24 rows x 5 columns]
+############ Pagina 3 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+5   Chaqueta Mujer Paicavi Therm-Pro Jacket Burdeo...  ...  2022-08-02
+6               Polera Mujer Core T-Shirt Negro Lippi  ...  2022-08-02
+7   Primera Capa Mujer Skintec 2000 Seamless Top H...  ...  2022-08-02
+8       Chaqueta Mujer Baggy Sweatshirt Grafito Lippi  ...  2022-08-02
+9   Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+10  Primera Capa Mujer Skintec 3000 Bottom Negro L...  ...  2022-08-02
+11  Chaqueta Mujer Seek Softshell Hoody Jacket Vin...  ...  2022-08-02
+12  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+13      Chaqueta Mujer Peak Down Hoody Vino I20 Lippi  ...  2022-08-02
+14  Chaqueta Mujer Macaya Softshell Hoody Jacket A...  ...  2022-08-02
+15                 Botin Mujer Puelo CS Hi Jade Lippi  ...  2022-08-02
+16  Chaqueta Mujer Paicavi Therm-Pro Jacket Verde ...  ...  2022-08-02
+17           Polera Deportiva Mujer Core Rosado Lippi  ...  2022-08-02
+18               Botin Mujer Puelo CS Hi Burdeo Lippi  ...  2022-08-02
+19  Poleron Mujer Stripes Nano-F Full Zip Hoody Az...  ...  2022-08-02
+20  Chaqueta Mujer Macaya Softshell Hoody Jacket N...  ...  2022-08-02
+21  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+22  Chaqueta Mujer Tres Cruces Fusion-3 Hoody Jack...  ...  2022-08-02
+23  Chaqueta Mujer Furry Shaggy-Pro Jacket Grafito...  ...  2022-08-02
+24  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody C...  ...  2022-08-02
+25  Chaqueta Mujer Alamo Blend-Pro Hoody Jacket Ta...  ...  2022-08-02
+26  Chaqueta Mujer Ferret Shaggy-Pro Jacket Verde ...  ...  2022-08-02
+27  Chaqueta Mujer Blizzard B-Dry Hoody Jacket Bur...  ...  2022-08-02
+28  Poleron Mujer Jacaranda Mountain Nano-F 1/4 Zi...  ...  2022-08-02
+29                         Bravo Mid Mujer Gris Lippi  ...  2022-08-02
+30                       Bravo Mid Mujer Morado Lippi  ...  2022-08-02
+31         Poleron Mujer Warmy Sweatshirt Negro Lippi  ...  2022-08-02
+32        Chaqueta Mujer Baggy Sweatshirt Malva Lippi  ...  2022-08-02
+33  Pantalon Mujer Dinamic Softshell Pants Negro L...  ...  2022-08-02
+34  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody P...  ...  2022-08-02
+35  Chaqueta Mujer Numan Shaggy-Pro Jacket Laurel ...  ...  2022-08-02
+
+[36 rows x 5 columns]
+############ Pagina 4 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+5   Chaqueta Mujer Paicavi Therm-Pro Jacket Burdeo...  ...  2022-08-02
+6               Polera Mujer Core T-Shirt Negro Lippi  ...  2022-08-02
+7   Primera Capa Mujer Skintec 2000 Seamless Top H...  ...  2022-08-02
+8       Chaqueta Mujer Baggy Sweatshirt Grafito Lippi  ...  2022-08-02
+9   Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+10  Primera Capa Mujer Skintec 3000 Bottom Negro L...  ...  2022-08-02
+11  Chaqueta Mujer Seek Softshell Hoody Jacket Vin...  ...  2022-08-02
+12  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+13      Chaqueta Mujer Peak Down Hoody Vino I20 Lippi  ...  2022-08-02
+14  Chaqueta Mujer Macaya Softshell Hoody Jacket A...  ...  2022-08-02
+15                 Botin Mujer Puelo CS Hi Jade Lippi  ...  2022-08-02
+16  Chaqueta Mujer Paicavi Therm-Pro Jacket Verde ...  ...  2022-08-02
+17           Polera Deportiva Mujer Core Rosado Lippi  ...  2022-08-02
+18               Botin Mujer Puelo CS Hi Burdeo Lippi  ...  2022-08-02
+19  Poleron Mujer Stripes Nano-F Full Zip Hoody Az...  ...  2022-08-02
+20  Chaqueta Mujer Macaya Softshell Hoody Jacket N...  ...  2022-08-02
+21  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+22  Chaqueta Mujer Tres Cruces Fusion-3 Hoody Jack...  ...  2022-08-02
+23  Chaqueta Mujer Furry Shaggy-Pro Jacket Grafito...  ...  2022-08-02
+24  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody C...  ...  2022-08-02
+25  Chaqueta Mujer Alamo Blend-Pro Hoody Jacket Ta...  ...  2022-08-02
+26  Chaqueta Mujer Ferret Shaggy-Pro Jacket Verde ...  ...  2022-08-02
+27  Chaqueta Mujer Blizzard B-Dry Hoody Jacket Bur...  ...  2022-08-02
+28  Poleron Mujer Jacaranda Mountain Nano-F 1/4 Zi...  ...  2022-08-02
+29                         Bravo Mid Mujer Gris Lippi  ...  2022-08-02
+30                       Bravo Mid Mujer Morado Lippi  ...  2022-08-02
+31         Poleron Mujer Warmy Sweatshirt Negro Lippi  ...  2022-08-02
+32        Chaqueta Mujer Baggy Sweatshirt Malva Lippi  ...  2022-08-02
+33  Pantalon Mujer Dinamic Softshell Pants Negro L...  ...  2022-08-02
+34  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody P...  ...  2022-08-02
+35  Chaqueta Mujer Numan Shaggy-Pro Jacket Laurel ...  ...  2022-08-02
+36  Primera Capa Mujer Skintec 3000 1/4 Zip Top Ne...  ...  2022-08-02
+37  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+38         Poleron Mujer Warmy Sweatshirt Malva Lippi  ...  2022-08-02
+39      Camisa Mujer Lumberjack Shirt Palo Rosa Lippi  ...  2022-08-02
+40              Zapatilla Mujer Panal III Negro Lippi  ...  2022-08-02
+41  Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+42   Poleron Mujer Lighter Nano-F 1/4 Zip Arena Lippi  ...  2022-08-02
+43              Botin Mujer Puelo CS Hi Grafito Lippi  ...  2022-08-02
+44  Chaqueta Mujer Peumo Canvas Hoody Jacket Negro...  ...  2022-08-02
+45  Chaqueta Mujer Paicavi Therm-Pro Jacket Azulin...  ...  2022-08-02
+46  Chaqueta Mujer Spry Steam-Pro Jacket Verde Gri...  ...  2022-08-02
+47  Chaqueta Mujer Nightfall Windbreaker Hoody Jac...  ...  2022-08-02
+
+[48 rows x 5 columns]
+############ Pagina 5 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+5   Chaqueta Mujer Paicavi Therm-Pro Jacket Burdeo...  ...  2022-08-02
+6               Polera Mujer Core T-Shirt Negro Lippi  ...  2022-08-02
+7   Primera Capa Mujer Skintec 2000 Seamless Top H...  ...  2022-08-02
+8       Chaqueta Mujer Baggy Sweatshirt Grafito Lippi  ...  2022-08-02
+9   Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+10  Primera Capa Mujer Skintec 3000 Bottom Negro L...  ...  2022-08-02
+11  Chaqueta Mujer Seek Softshell Hoody Jacket Vin...  ...  2022-08-02
+12  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+13      Chaqueta Mujer Peak Down Hoody Vino I20 Lippi  ...  2022-08-02
+14  Chaqueta Mujer Macaya Softshell Hoody Jacket A...  ...  2022-08-02
+15                 Botin Mujer Puelo CS Hi Jade Lippi  ...  2022-08-02
+16  Chaqueta Mujer Paicavi Therm-Pro Jacket Verde ...  ...  2022-08-02
+17           Polera Deportiva Mujer Core Rosado Lippi  ...  2022-08-02
+18               Botin Mujer Puelo CS Hi Burdeo Lippi  ...  2022-08-02
+19  Poleron Mujer Stripes Nano-F Full Zip Hoody Az...  ...  2022-08-02
+20  Chaqueta Mujer Macaya Softshell Hoody Jacket N...  ...  2022-08-02
+21  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+22  Chaqueta Mujer Tres Cruces Fusion-3 Hoody Jack...  ...  2022-08-02
+23  Chaqueta Mujer Furry Shaggy-Pro Jacket Grafito...  ...  2022-08-02
+24  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody C...  ...  2022-08-02
+25  Chaqueta Mujer Alamo Blend-Pro Hoody Jacket Ta...  ...  2022-08-02
+26  Chaqueta Mujer Ferret Shaggy-Pro Jacket Verde ...  ...  2022-08-02
+27  Chaqueta Mujer Blizzard B-Dry Hoody Jacket Bur...  ...  2022-08-02
+28  Poleron Mujer Jacaranda Mountain Nano-F 1/4 Zi...  ...  2022-08-02
+29                         Bravo Mid Mujer Gris Lippi  ...  2022-08-02
+30                       Bravo Mid Mujer Morado Lippi  ...  2022-08-02
+31         Poleron Mujer Warmy Sweatshirt Negro Lippi  ...  2022-08-02
+32        Chaqueta Mujer Baggy Sweatshirt Malva Lippi  ...  2022-08-02
+33  Pantalon Mujer Dinamic Softshell Pants Negro L...  ...  2022-08-02
+34  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody P...  ...  2022-08-02
+35  Chaqueta Mujer Numan Shaggy-Pro Jacket Laurel ...  ...  2022-08-02
+36  Primera Capa Mujer Skintec 3000 1/4 Zip Top Ne...  ...  2022-08-02
+37  Chaqueta Mujer Sense Blend-Pro Jacket Melange ...  ...  2022-08-02
+38         Poleron Mujer Warmy Sweatshirt Malva Lippi  ...  2022-08-02
+39      Camisa Mujer Lumberjack Shirt Palo Rosa Lippi  ...  2022-08-02
+40              Zapatilla Mujer Panal III Negro Lippi  ...  2022-08-02
+41  Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+42   Poleron Mujer Lighter Nano-F 1/4 Zip Arena Lippi  ...  2022-08-02
+43              Botin Mujer Puelo CS Hi Grafito Lippi  ...  2022-08-02
+44  Chaqueta Mujer Peumo Canvas Hoody Jacket Negro...  ...  2022-08-02
+45  Chaqueta Mujer Paicavi Therm-Pro Jacket Azulin...  ...  2022-08-02
+46  Chaqueta Mujer Spry Steam-Pro Jacket Verde Gri...  ...  2022-08-02
+47  Chaqueta Mujer Nightfall Windbreaker Hoody Jac...  ...  2022-08-02
+48  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+49  Chaqueta Mujer Alamo Blend-Pro Hoody Jacket Ro...  ...  2022-08-02
+50  Poleron Mujer Jacaranda Nano-F 1/4 Zip Palo Ro...  ...  2022-08-02
+51  Chaqueta Mujer Paicavi Therm-Pro 1/4 Zip Jacke...  ...  2022-08-02
+52  Chaqueta Mujer Shield B-Dry Hoody Jacket Negro...  ...  2022-08-02
+53               Botin Mujer All Terra Mid Vino Lippi  ...  2022-08-02
+54  Pantalon Mujer Dinamic Softshell Pants Gris Os...  ...  2022-08-02
+55  Poleron Mujer Stripes Nano-F Full Zip Hoody Ne...  ...  2022-08-02
+56  Poleron Mujer Jacaranda Nano-F 1/4 Zip Frambue...  ...  2022-08-02
+57  Chaqueta Mujer Peumo Canvas Hoody Jacket Cafe ...  ...  2022-08-02
+58  Chaqueta Mujer Blizzard B-Dry Hoody Jacket Fra...  ...  2022-08-02
+59  Chaqueta Mujer Ferret Shaggy-Pro Jacket Negro ...  ...  2022-08-02
+
+[60 rows x 5 columns]
+############ Pagina 6 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+67  Chaqueta Mujer Bear Shaggy-Pro Hoody Jacket Ma...  ...  2022-08-02
+68  Polera Deportiva Mujer Core Melange Grafito Lippi  ...  2022-08-02
+69  Chaqueta Mujer Shield B-Dry Hoody Jacket Malva...  ...  2022-08-02
+70              Botin Mujer All Terra Mid Beige Lippi  ...  2022-08-02
+71  Chaqueta Mujer Blizzard B-Dry Hoody Jacket Gra...  ...  2022-08-02
+
+[72 rows x 5 columns]
+############ Pagina 7 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+79  Chaqueta Mujer Bear Shaggy-Pro Hoody Jacket Bu...  ...  2022-08-02
+80  Chaqueta Plumas Mujer Peak Down Hoody Turquesa...  ...  2022-08-02
+81  Chaqueta Mujer Seek Softshell Hoody Jacket Neg...  ...  2022-08-02
+82  Pantalon Mujer Pardo Mix-2 Q-Dry Pants Verde M...  ...  2022-08-02
+83  Camisa Mujer Lumberjack Shirt Verde Grisaceo L...  ...  2022-08-02
+
+[84 rows x 5 columns]
+############ Pagina 8 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                      nombre producto  ...       fecha
+0   Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1       Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2          Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3           Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                 Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                ...  ...         ...
+90  Chaqueta Mujer Ultimate Stretch Down Jacket Ne...  ...  2022-08-02
+91  Chaqueta Mujer Ferret Shaggy-Pro Jacket Taupe ...  ...  2022-08-02
+92  Chaqueta Mujer Blizzard B-Dry Hoody Turquesa V...  ...  2022-08-02
+93  Chaqueta Mujer Alamo Blend-Pro Hoody Jacket Ve...  ...  2022-08-02
+94  Chaqueta Mujer Venture Steam-Pro Hoody Jacket ...  ...  2022-08-02
+
+[95 rows x 5 columns]
+############ Pagina 9 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+102  Chaqueta Mujer Furry Shaggy-Pro Jacket Burdeo ...  ...  2022-08-02
+103  Zapatilla Mujer Vulcano Shell Stone Bdry Turqu...  ...  2022-08-02
+104  Zapatilla Mujer Vulcano Moon Stone Turquoise G...  ...  2022-08-02
+105  Chaquetas Mujer Roble B-Dry Hoody Jacket Negro...  ...  2022-08-02
+106                      Botín Mujer Slate B-Dry Coral  ...  2022-08-02
+
+[107 rows x 5 columns]
+############ Pagina 10 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+114  Chaqueta Mujer Numan Shaggy-Pro Jacket Malva L...  ...  2022-08-02
+115  Zapatilla Mujer Vulcano Iron Stone Mid Bdry Da...  ...  2022-08-02
+116                 Botin Mujer Puelo CS Hi Gris Lippi  ...  2022-08-02
+117          Poleron Mujer Warmy Sweatshirt Jade Lippi  ...  2022-08-02
+118       Chaqueta Mujer Spry Steam-Pro Jacket Grafito  ...  2022-08-02
+
+[119 rows x 5 columns]
+############ Pagina 11 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+126  Zapatilla Mujer Vulcano Iron Stone Bdry Black ...  ...  2022-08-02
+127  Chaqueta Mujer Alpine B-Dry Hoody Jacket Negro...  ...  2022-08-02
+128  Zapatilla Mujer Wool Step Slip On Triple Black...  ...  2022-08-02
+129          Zapatilla Mujer Wool Step City Rose Lippi  ...  2022-08-02
+130     Zapatilla Mujer Vulcano Iron Stone Grape Lippi  ...  2022-08-02
+
+[131 rows x 5 columns]
+############ Pagina 12 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+138  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody A...  ...  2022-08-02
+139  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody P...  ...  2022-08-02
+140             Zapatilla Mujer Panal III Burdeo Lippi  ...  2022-08-02
+141               Zapatilla Mujer Panal III Jade Lippi  ...  2022-08-02
+142                      Short Mujer Fury Shorts Negro  ...  2022-08-02
+
+[143 rows x 5 columns]
+############ Pagina 13 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+150    Peto Mujer In-Motion Crossback Bra Melange Lila  ...  2022-08-02
+151  Chaqueta Mujer Alpine B-Dry Hoody Jacket Laure...  ...  2022-08-02
+152  Poleron Mujer Stripes Nano-F Full Zip Hoody Mo...  ...  2022-08-02
+153  Chaqueta Mujer Coronado Therm-Pro Jacket Melan...  ...  2022-08-02
+154  Chaqueta Mujer Spry Steam-Pro Hoody Jacket Fra...  ...  2022-08-02
+
+[155 rows x 5 columns]
+############ Pagina 14 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+162  Chaqueta Mujer Tres Cruces Fusion-3 Hoody Jack...  ...  2022-08-02
+163  Zapatilla Mujer Vulcano Iron Stone Bdry Uva Lippi  ...  2022-08-02
+164  Primera Capa Mujer Skintec 1000 Seamless Top S...  ...  2022-08-02
+165         Short Mujer Challenge Shorts Grafito Lippi  ...  2022-08-02
+166  Poleron Mujer Stripes Nano-F Full Zip Hoody Fr...  ...  2022-08-02
+
+[167 rows x 5 columns]
+############ Pagina 15 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+174           Polera Mujer Summer UV-Stop Tank Celeste  ...  2022-08-02
+175  Poleron Mujer Jacaranda Nano-F 14 Zip Celeste ...  ...  2022-08-02
+176   Chaqueta Mujer Andes B-Dry Hoody Negro I20 Lippi  ...  2022-08-02
+177      Polera Mujer Crossback Organic T-Shirt Laurel  ...  2022-08-02
+178  Chaqueta Mujer Spry WindBreaker Hoody Jacket N...  ...  2022-08-02
+
+[179 rows x 5 columns]
+############ Pagina 16 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+186  Primera Capa Mujer Skintec 1000 Seamless Top S...  ...  2022-08-02
+187                   Botín Mujer Slate B-Dry Turquesa  ...  2022-08-02
+188   Pantalon Mujer Infinity Q-Dry Pants Laurel Lippi  ...  2022-08-02
+189  Primera Capa Mujer Skintec 1000 Seamless Top S...  ...  2022-08-02
+190       Polera Mujer Breeze Seamless T-Shirt Grafito  ...  2022-08-02
+
+[191 rows x 5 columns]
+############ Pagina 17 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+198        Polera Mujer Crossback Organic T-Shirt Vino  ...  2022-08-02
+199  Chaqueta Mujer Furry Shaggy-Pro Jacket Crudo L...  ...  2022-08-02
+200  Chaqueta Mujer Snowmass Steam-Pro Jacket Burde...  ...  2022-08-02
+201  Calza Mujer In-Action Trekking Leggings Negro ...  ...  2022-08-02
+202  Camisa Mujer Rosselot Long Sleeve Q-Dry Shirt ...  ...  2022-08-02
+
+[203 rows x 5 columns]
+############ Pagina 18 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+210  Zapatilla Mujer Vulcano Moon Stone Black Sky L...  ...  2022-08-02
+211               Zapato Mujer Puelo CS Low Gris Lippi  ...  2022-08-02
+212  Chaqueta Mujer Nightfall WindBreaker Hoody Jac...  ...  2022-08-02
+213  Chaqueta Mujer Spry WindBreaker 14 Zip Hoody J...  ...  2022-08-02
+214         Zapatilla Mujer Wool Step City Cream Lippi  ...  2022-08-02
+
+[215 rows x 5 columns]
+############ Pagina 19 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+222  Chaqueta Mujer Paicavi Therm-Pro Jacket Negro ...  ...  2022-08-02
+223                Sandalia Mujer Take & Go Lima Lippi  ...  2022-08-02
+224  Chaqueta Mujer Furry Shaggy-Pro Jacket Grafito...  ...  2022-08-02
+225  Poleron Mujer Lighter Nano-F 1/4 Zip Frambuesa...  ...  2022-08-02
+226              Polera Mujer Summer UV-Stop Tank Vino  ...  2022-08-02
+
+[227 rows x 5 columns]
+############ Pagina 20 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+234  Polera Tank Mujer Summit UV-Stop Melange Malva...  ...  2022-08-02
+235  Chaqueta Mujer Macaya Softshell Hoody Jacket M...  ...  2022-08-02
+236        Polera Mujer Breeze Seamless T-Shirt Blanco  ...  2022-08-02
+237  Calza Mujer In-Action Seamless Leggings Vino L...  ...  2022-08-02
+238              Sandalia Mujer Take & Go Indigo Lippi  ...  2022-08-02
+
+[239 rows x 5 columns]
+############ Pagina 21 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+246        Poleron Mujer Baggy Sweatshirt Laurel Lippi  ...  2022-08-02
+247         Polera Mujer Breeze Seamless T-Shirt Arena  ...  2022-08-02
+248              Botín Mujer Terray Mid Turquesa Lippi  ...  2022-08-02
+249  Chaqueta Mujer Ferret Shaggy-Pro Jacket Negro ...  ...  2022-08-02
+250  Primera Capa Mujer Skintec 2000 warm Bottom Ne...  ...  2022-08-02
+
+[251 rows x 5 columns]
+############ Pagina 22 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+258  Poleron Mujer Jacaranda Mountain Nano-F 14 Zip...  ...  2022-08-02
+259  Pantalon Mujer Enduring Mix-2 Q-Dry Pants Gris...  ...  2022-08-02
+260   Chaqueta Mujer Bazpur Down Hoody Verde I19 Lippi  ...  2022-08-02
+261  Chaqueta Mujer Sense Blend-Pro Hoody Jacket Me...  ...  2022-08-02
+262             Bota Mujer Polar Light Verde I20 Lippi  ...  2022-08-02
+
+[263 rows x 5 columns]
+############ Pagina 23 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+270  Peto Mujer In-Motion Crossback Bra Melange Cel...  ...  2022-08-02
+271              Pantalon Mujer Grey Q-Dry Pants Crudo  ...  2022-08-02
+272  Polera Mujer Essential UV-Stop T-Shirt Celeste...  ...  2022-08-02
+273              Pantalon Mujer Grey Q-Dry Pants Negro  ...  2022-08-02
+274             Polera Mujer Sunset T-Shirt Gris Claro  ...  2022-08-02
+
+[275 rows x 5 columns]
+############ Pagina 24 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+282  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody J...  ...  2022-08-02
+283  Polera Mujer Essential UV-Stop T-Shirt Vino Fu...  ...  2022-08-02
+284  Poleron Mujer Jacaranda Nano-F 1/4 Zip Hoody N...  ...  2022-08-02
+285   Poleron Mujer Lighter Nano-F 14 Zip Verde Oscuro  ...  2022-08-02
+286  Poleron Mujer Jacaranda Nano-F 14 Zip Hoody Li...  ...  2022-08-02
+
+[287 rows x 5 columns]
+############ Pagina 25 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+294  Poleron Mujer Lighter Nano-F 1/4 Zip Grafito L...  ...  2022-08-02
+295  Primera Capa Mujer Skintec 2000 warm Top Negro...  ...  2022-08-02
+296              Poleron Mujer Insigne Sweatshirt Gris  ...  2022-08-02
+297        Poleron Mujer Lighter Nano-F 14 Zip Grafito  ...  2022-08-02
+298  Calzas Deportivas Seamless Mujer In-Motion Mel...  ...  2022-08-02
+
+[299 rows x 5 columns]
+############ Pagina 26 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+306  Poleron Mujer Insigne Full Zip Hoody Sweatshir...  ...  2022-08-02
+307  Poleron Mujer Insigne Full Zip Hoody Sweatshir...  ...  2022-08-02
+308  Calza Mujer In-Motion Seamless Leggings High W...  ...  2022-08-02
+309         Polera Mujer Sunset T-Shirt Verde Grisaceo  ...  2022-08-02
+310             Pantalon Mujer Grey Q-Dry Pants Laurel  ...  2022-08-02
+
+[311 rows x 5 columns]
+############ Pagina 27 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+318  Primera Capa Mujer Skintec 1000 Seamless Top N...  ...  2022-08-02
+319   Pantalon Mujer Enduring Mix-2 Q-Dry Pants Laurel  ...  2022-08-02
+320  Camisa Mujer Rosselot Long Sleeve Q-Dry Shirt ...  ...  2022-08-02
+321     Poleron Mujer Insigne Sweatshirt Azul Grisaceo  ...  2022-08-02
+322  Pantalon Mujer Enduring Mix-2 Q-Dry Pants Grafito  ...  2022-08-02
+
+[323 rows x 5 columns]
+############ Pagina 28 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+330               Camisa Mujer Hachazo Negro Haka Honu  ...  2022-08-02
+331  Chaqueta Mujer Infiernillo con gorro Negro Hak...  ...  2022-08-02
+332         Chaqueta Mujer Perro Guapo Negro Haka Honu  ...  2022-08-02
+333         Chaqueta Mujer Zip-porrito Crudo Haka Honu  ...  2022-08-02
+334   Poleron Mujer Tokerau insulado Damasco Haka Honu  ...  2022-08-02
+
+[335 rows x 5 columns]
+############ Pagina 29 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+342               Chaleco Mujer Quilin Negro Haka Honu  ...  2022-08-02
+343              Poleron Mujer Polaroid Café Haka Honu  ...  2022-08-02
+344          Chaqueta Mujer Yeti Print Verde Haka Honu  ...  2022-08-02
+345                Sandalia Mujer Carel Café Haka Honu  ...  2022-08-02
+346                  Botin Mujer Haka Honu Pampa Beige  ...  2022-08-02
+
+[347 rows x 5 columns]
+############ Pagina 30 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+354            Botin Mujer Haka Honu Patagon Terracota  ...  2022-08-02
+355  Primera capa Mujer Puma Austral top Palo Rosa ...  ...  2022-08-02
+356  Primera capa Mujer Huemul bottom Print Celeste...  ...  2022-08-02
+357            Chaqueta Mujer Calur-oso Café Haka Honu  ...  2022-08-02
+358                Pantalon Mujer Moke Negro Haka Honu  ...  2022-08-02
+
+[359 rows x 5 columns]
+############ Pagina 31 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+366                Poleron Mujer Taina Negro Haka Honu  ...  2022-08-02
+367             Chaqueta Mujer Noes-Ni Negro Haka Honu  ...  2022-08-02
+368           Poleron Mujer Tokerau Pro Jade Haka Honu  ...  2022-08-02
+369      Poleron Mujer Haka Honu Cangur-oso Full print  ...  2022-08-02
+370     Camisa Mujer Mermelada de Perla Jade Haka Honu  ...  2022-08-02
+
+[371 rows x 5 columns]
+############ Pagina 32 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+377  Chaqueta Mujer Zip-porrito Print Burdeo Haka Honu  ...  2022-08-02
+378  Chaqueta Mujer Ultraliviana Print Damasco Haka...  ...  2022-08-02
+379      Poleron Mujer Haka Honu Tokerau Pro Palo Rosa  ...  2022-08-02
+380   Primera capa Mujer Haka Honu Huemul Bottom Negro  ...  2022-08-02
+381          Poleron Mujer Chi-porrito Oliva Haka Honu  ...  2022-08-02
+
+[382 rows x 5 columns]
+############ Pagina 33 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+389  Poleron Mujer Haka Honu Tokerau insulado Melan...  ...  2022-08-02
+390         Poleron Mujer Haka Honu Tio Emiliodon Jade  ...  2022-08-02
+391        Poleron Mujer Refugia-T Palo Rosa Haka Honu  ...  2022-08-02
+392                Calza Mujer Pampa Mostaza Haka Honu  ...  2022-08-02
+393              Chaqueta Mujer Noes-Ni Jade Haka Honu  ...  2022-08-02
+
+[394 rows x 5 columns]
+############ Pagina 34 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+401     Poleron Mujer Tokerau Print Rapa Nui Haka Honu  ...  2022-08-02
+402             Poleron Mujer Haka Honu Tokerau Morado  ...  2022-08-02
+403          Poleron Mujer Refugia-T Mostaza Haka Honu  ...  2022-08-02
+404            Chaqueta Mujer Bi-polar Negro Haka Honu  ...  2022-08-02
+405            Chaqueta Mujer Calentito Café Haka Honu  ...  2022-08-02
+
+[406 rows x 5 columns]
+############ Pagina 35 ###############
+/home/root/workspace/Retail_Web_Scraper/funciones/func_lip.py:66: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_final = df_final.append(df)
+                                       nombre producto  ...       fecha
+0    Chaqueta Mujer Blizzard B-Dry Hoody Jacket Lau...  ...  2022-08-02
+1        Botín Mujer Light Rock Mid II All Black Lippi  ...  2022-08-02
+2           Polera Deportiva Mujer Core Turquesa Lippi  ...  2022-08-02
+3            Botin Mujer Woods Pro Mid Terracota Lippi  ...  2022-08-02
+4                  Botin Mujer Puelo CS Hi Verde Lippi  ...  2022-08-02
+..                                                 ...  ...         ...
+413                  Polera Mujer Haka Honu Polo Negro  ...  2022-08-02
+414                Botin Mujer Haka Honu Pampa Mostaza  ...  2022-08-02
+415                Polera Mujer Haka Honu Flora Morado  ...  2022-08-02
+416                 Polera Mujer Haka Honu Flora Negro  ...  2022-08-02
+417      Calza Mujer Haka Honu Calzatela Verde militar  ...  2022-08-02
+
+[418 rows x 5 columns]
