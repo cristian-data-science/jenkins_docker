@@ -40,6 +40,7 @@ RUN pip install xlrd
 RUN pip install openpyxl
 RUN pip install xlsxwriter
 RUN pip install pandas
+RUN pip install pymssql
 #RUN pip install pyodbc
 # cambiando usuario
 
