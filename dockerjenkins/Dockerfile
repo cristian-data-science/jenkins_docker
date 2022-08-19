@@ -48,6 +48,10 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get install -y openssh-server
 RUN mkdir /var/run/sshd
 
+RUN apt-get -y install tzdata
+ENV TZ=America/Santiago 
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
 RUN echo 'root:patagonia' | chpasswd
 #RUN sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
 RUN sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/g' /etc/ssh/sshd_config
@@ -57,6 +61,7 @@ RUN echo "export VISIBLE=now" >> /etc/profile
 #CMD ["/usr/sbin/sshd", "-D"]
 RUN service ssh start
 EXPOSE 22
+
 USER jenkins
 
 # en una instalación nueva tanto el chromiun como el chromedriver deben tener la misma version

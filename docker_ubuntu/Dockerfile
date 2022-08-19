@@ -58,6 +58,9 @@ RUN echo "export VISIBLE=now" >> /etc/profile
 RUN apt install -y default-jre
 
 RUN apt-get -y install tzdata
+ENV TZ=America/Santiago 
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
 #RUN apt-get install -y nginx
 RUN service ssh start
 #CMD "nginx" "-g" "daemon off;"
