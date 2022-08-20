@@ -1,6 +1,0 @@
-### dependencias para agregar al docker file (instalar con pip3)
-pandas
-numpy
-openpyxl
-xlrd
-xlsxwriter
