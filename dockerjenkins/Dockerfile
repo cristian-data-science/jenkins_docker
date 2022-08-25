@@ -41,6 +41,8 @@ RUN pip install openpyxl
 RUN pip install xlsxwriter
 RUN pip install pandas
 RUN pip install pymssql
+RUN pip install gspread
+RUN pip install --upgrade gspread
 #RUN pip install pyodbc
 # cambiando usuario
 
