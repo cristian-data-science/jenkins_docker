@@ -43,6 +43,7 @@ RUN pip install pandas
 RUN pip install pymssql
 RUN pip install gspread
 RUN pip install --upgrade gspread
+RUN pip install --upgrade google-api-python-client oauth2client
 #RUN pip install pyodbc
 # cambiando usuario
 
